@@ -99,5 +99,5 @@ test_parse_package_json passed!
 test_resolve_dependencies passed!
 All tests passed!
 ```
-![Скриншот результата](photo/Снимок%20экрана%202024-12-02%20212612.png)
-![Скриншот результата](photo/Снимок%20экрана%202024-12-02%20212446.png)# config2
+![Скриншот результата](photo/photo1.png)
+![Скриншот результата](photo/photo2.png)
