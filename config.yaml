@@ -1,0 +1,3 @@
+visualization_path: "dot"
+repo_name: "your-package-name"
+output_file: "graph.dot"
